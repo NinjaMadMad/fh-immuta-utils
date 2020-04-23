@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNinjaMadMad%2Ffh-immuta-utils.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNinjaMadMad%2Ffh-immuta-utils?ref=badge_shield)
+
 fh-immuta-utils
 ============
 
@@ -15,3 +17,7 @@ Documentation:
 * [Managing data sources](doc/managing_data_sources.md)
 * [Managing policies](doc/managing_policies.md)
 * [Contributing](CONTRIBUTING.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNinjaMadMad%2Ffh-immuta-utils.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FNinjaMadMad%2Ffh-immuta-utils?ref=badge_large)
